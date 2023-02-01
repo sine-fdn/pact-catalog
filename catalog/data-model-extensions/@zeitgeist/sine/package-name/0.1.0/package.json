@@ -1,0 +1,25 @@
+{
+  "name": "@zeitgeist/sine/package-name",
+  "version": "0.1.0",
+  "description": "My first package",
+  "files": [
+    "schema.json"
+  ],
+  "author": {
+    "name": "Martin Pompéry",
+    "email": "martin@sine.foundation",
+    "url": "https://sine.foundation/"
+  },
+  "license": "MIT",
+  "catalog_info": {
+    "summary": "",
+    "status": "draft",
+    "authors": [
+      "zeitgeist"
+    ]
+  },
+  "industries": [
+    "Air",
+    "Water"
+  ]
+}
